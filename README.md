@@ -35,7 +35,6 @@ class MainActivity : AppCompatActivity() {
                 else -> R.string.dice_6
             }
         )
-
         diceValueText.text = "Rolled: $randomInt"
     }
 }
@@ -84,7 +83,6 @@ app-debug.apk
 app-debug-androidTest.apk
 
 Resources: 6 dice images taken from:
-
 Dice, one icon - Free download on Iconfinder
 Dice, two icon - Free download on Iconfinder
 Dice, three icon - Free download on Iconfinder
