@@ -62,15 +62,24 @@ github link: kson115/diceRollerApp: An Android app that stimulates rolling dices
 README.md: diceRollerApp/README.md at main · kson115/diceRollerApp
 
 Screenshots:
+original emulator:
+<img width="1224" height="1470" alt="diceRoll1" src="https://github.com/user-attachments/assets/aa661843-a0f3-4e81-baff-7e5a72edc018" />
+<img width="1209" height="1469" alt="diceRoll2" src="https://github.com/user-attachments/assets/1cc65016-1dd8-476c-b9e4-107e214e30e9" />
+<img width="1223" height="1479" alt="diceRoll6" src="https://github.com/user-attachments/assets/63db8631-6bb6-4c91-a32e-a278eef27bbd" />
+<img width="1210" height="1481" alt="diceRoll5" src="https://github.com/user-attachments/assets/23f18f4e-9661-4907-9772-efc477402b90" />
+<img width="1214" height="1470" alt="diceRoll4" src="https://github.com/user-attachments/assets/79adea9b-ca30-4c8c-8986-fc203f54d0c3" />
+<img width="1196" height="1462" alt="diceRoll3" src="https://github.com/user-attachments/assets/9d749875-3adf-4e8a-9fd9-6d6e3ed681a9" />
 
-
-
-
+APK installed fresh emulator:
+<img width="2344" height="1098" alt="APKinstallTest2" src="https://github.com/user-attachments/assets/42ff589c-a328-4b21-a4b0-bfc5f649e62b" />
+<img width="2331" height="1046" alt="APKinstallTest1" src="https://github.com/user-attachments/assets/6dc88f22-6236-4e7d-9bc3-ac6c658943b5" />
+<img width="1080" height="2424" alt="diceRollFreshEmulator2" src="https://github.com/user-attachments/assets/04e3c132-228f-4d22-b209-8c8be8cf02df" />
+<img width="1214" height="1389" alt="diceRollFreshEmulator1" src="https://github.com/user-attachments/assets/98bea7c7-388b-4233-9816-eb6c6e23c300" />
 
 Demo Video: 
 Diceroll video link: https://drive.google.com/file/d/1--FySc5JbikbvKULjWxRJGvEo_SBqTPl/view?usp=sharing
 
-APK Downloads:
+APKs uploaded in Blackboard:
 diceRoller-debug.apk
 diceRoller-release.apk
 
