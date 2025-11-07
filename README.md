@@ -80,8 +80,8 @@ Demo Video:
 Diceroll video link: https://drive.google.com/file/d/1--FySc5JbikbvKULjWxRJGvEo_SBqTPl/view?usp=sharing
 
 APKs uploaded in Blackboard:
-diceRoller-debug.apk
-diceRoller-release.apk
+app-debug.apk
+app-debug-androidTest.apk
 
 Resources: 6 dice images taken from:
 
